@@ -1,4 +1,4 @@
-# LLM-App-With-Python-Using-OpenAI-API-And-
+# LLM-App-With-Python-Using-OpenAI-API-And-Chainlit
 
 This repository contains a custom user interface (UI) for ChainLit LLM, powered by the ChainLit LLM engine. The UI provides a user-friendly interface to interact with the language model and generate human-like text.
 
