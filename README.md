@@ -40,24 +40,24 @@ Open your web browser and visit http://localhost:8000 to access the ChainLit LLM
 - View the generated response in the output section.
 - 
 ## Customization
-The ChainLit LLM Custom UI allows you to customize the following parameters:
+- The ChainLit LLM Custom UI allows you to customize the following parameters:
 
 - Temperature: Controls the randomness of the generated text. Higher values (e.g., 1.0) produce more diverse but potentially less coherent responses, while lower values (e.g., 0.5) produce more focused and conservative responses.
 
 ## Troubleshooting
-If you encounter any issues while using the ChainLit LLM Custom UI, consider the following troubleshooting steps:
+- If you encounter any issues while using the ChainLit LLM Custom UI, consider the following troubleshooting steps:
 
-Make sure you have the ChainLit LLM engine installed and configured correctly.
-Check that all dependencies are installed by running pip install -r requirements.txt.
-Verify that the Python version is compatible with the ChainLit LLM Custom UI.
-Ensure that the necessary port (default: 5000) is not blocked by any firewall or security settings.
-If the issue persists, please consult the ChainLit LLM documentation or open an issue in this repository for further assistance.
+- Make sure you have the ChainLit LLM engine installed and configured correctly.
+- Check that all dependencies are installed by running pip install -r requirements.txt.
+- Verify that the Python version is compatible with the ChainLit LLM Custom UI.
+- Ensure that the necessary port (default: 5000) is not blocked by any firewall or security settings.
+- If the issue persists, please consult the ChainLit LLM documentation or open an issue in this repository for further assistance.
 
 ## Contributing
-Contributions to the ChainLit LLM Custom UI are welcome! If you encounter any bugs, have feature suggestions, or want to contribute improvements, please submit a pull request or open an issue.
+- Contributions to the ChainLit LLM Custom UI are welcome! If you encounter any bugs, have feature suggestions, or want to contribute improvements, please submit a pull request or open an issue.
 
-Acknowledgments
-We would like to acknowledge the developers and contributors of ChainLit LLM for providing the powerful language model that powers this UI.
+## Acknowledgments
+- We would like to acknowledge the developers and contributors of ChainLit LLM for providing the powerful language model that powers this UI.
 
-Contact
-For any inquiries or support, please contact your-email@example.com.
+## Contact
+- For any inquiries or support, please contact bs.vigneshwaran@gmail.com.
